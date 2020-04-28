@@ -2,7 +2,7 @@
 <launch>
 
 	<arg name="gui" default="false"/>
-	<arg name="namespace" default="airboat"/>  
+	<arg name="namespace" default="uuv"/>
 	<arg name="posX" default="0"/>
     <arg name="posY" default="0"/>
     <arg name="posZ" default="0"/>
